@@ -1,5 +1,5 @@
 # ReVanced Apps
-[![CI](https://img.shields.io/github/actions/workflow/status/Shourene/revanced-root-module/ci.yml?style=for-the-badge&logo=github)](https://github.com/Shourene/revanced-root-module/actions/workflows/ci.yml)
+[![CI](https://img.shields.io/github/actions/workflow/status/Shourene/revanced-apps/ci.yml?style=for-the-badge&logo=github)](https://github.com/Shourene/revanced-apps/actions/workflows/ci.yml)
 
 Extensive ReVanced builder  
 
@@ -38,12 +38,12 @@ also see here [`CONFIG.md`](./CONFIG.md)
 ## Building Locally
 ### On Termux
 ```console
-bash <(curl -sSf https://raw.githubusercontent.com/Shourene/revanced-root-module/main/build-termux.sh)
+bash <(curl -sSf https://raw.githubusercontent.com/Shourene/revanced-apps/main/build-termux.sh)
 ```
 
 ### On Desktop
 ```console
-$ git clone https://github.com/Shourene/revanced-root-module
-$ cd revanced-root-module
+$ git clone https://github.com/Shourene/revanced-apps
+$ cd revanced-apps
 $ ./build.sh
 ```
