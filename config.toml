@@ -22,6 +22,9 @@ patcher-args = """\
 -OinsertPosition=@string/about_key \
 -e 'Theme' \
 -OdarkThemeBackgroundColor=@android:color/black \
+-e 'GmsCore support' \
+-OpackageNameYouTube=com.google.android.youtube \
+-OpackageNameYouTubeMusic=com.google.android.apps.youtube.music \
 """
 
 [YouTube-Music]
@@ -43,6 +46,9 @@ patcher-args = """\
 -OrvxSettingsLabel='Revanced Settings' \
 -OsettingsSummaries=true \
 -OinsertPosition=settings_header_about_youtube_music \
+-e 'GmsCore support' \
+-OpackageNameYouTube=com.google.android.youtube \
+-OpackageNameYouTubeMusic=com.google.android.apps.youtube.music \
 """
 
 [Reddit]
@@ -67,3 +73,4 @@ arch = "both"
 build-mode = "both"
 version = "auto"
 included-patches = "'Enable DCIM folders backup control'"
+
