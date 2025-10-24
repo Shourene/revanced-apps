@@ -1,5 +1,7 @@
 # ReVanced Apps
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kotakarenedumps)
 [![CI](https://img.shields.io/github/actions/workflow/status/Shourene/revanced-apps/ci.yml?style=for-the-badge&logo=github)](https://github.com/Shourene/revanced-apps/actions/workflows/ci.yml)
+[![RELEASE](https://img.shields.io/badge/Download-181717?style=for-the-badge&logo=refinedgithub&logoColor=ffffff)](https://github.com/Shourene/revanced-apps/releases)
 
 Extensive ReVanced builder  
 
