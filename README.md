@@ -1,5 +1,5 @@
 # ReVanced Apps
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kotakarenedumps)
+[![Telegram](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6WD7D9Xte6)
 [![CI](https://img.shields.io/github/actions/workflow/status/Shourene/revanced-apps/ci.yml?style=for-the-badge&logo=github)](https://github.com/Shourene/revanced-apps/actions/workflows/ci.yml)
 [![RELEASE](https://img.shields.io/badge/Download-181717?style=for-the-badge&logo=refinedgithub&logoColor=ffffff)](https://github.com/Shourene/revanced-apps/releases)
 
