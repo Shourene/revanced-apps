@@ -69,7 +69,7 @@ patcher-args = """\
 
 [Spotify]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/spotify-ab/spotify-music-podcasts/"
-arch = "universal"
+arch = "arm64-v8a"
 build-mode = "apk"
 version = "auto"
 patches-source = "anddea/revanced-patches"
