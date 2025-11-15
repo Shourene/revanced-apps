@@ -57,8 +57,8 @@ apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 # uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 arch = "all"
 version = "2025.12.1"
-patches-source = "inotia00/revanced-patches"
-integrations-source = "inotia00/revanced-integrations"
+patches-source = "anddea/revanced-patches"
+integrations-source = "anddea/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 patches-version = "dev"
 patcher-args = """\
@@ -66,11 +66,22 @@ patcher-args = """\
 -OrvxSettingsLabel='Revanced Settings' \
 """
 
+[Spotify]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/spotify-ab/spotify-music-podcasts/"
+arch = "both"
+build-mode = "both"
+version = "auto"
+patches-source = "anddea/revanced-patches"
+integrations-source = "anddea/revanced-integrations"
+cli-source = "inotia00/revanced-cli"
+patches-version = "dev"
+included-patches = "'Change lyrics provider'"
+
 [GooglePhotos]
+enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 # uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 arch = "both"
 build-mode = "both"
 version = "auto"
 included-patches = "'Enable DCIM folders backup control'"
-
